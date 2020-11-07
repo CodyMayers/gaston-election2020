@@ -1,0 +1,4 @@
+county_desc	precinct_abbrv	vtd_abbrv	age	party_cd	race_code	ethnic_code	sex_code	total_voters	election_date	stats_type	update_date	voting_method	voting_method_desc	voted_party_cd
+BEAUFORT	CHOCO	CHOCO	Age 41 - 65	DEM	W	NL	F	1	11/03/2020	history	11/05/2020	O	ABSENTEE ONESTOP	DEM
+HYDE	SLAD	SLAD	Age Over 66	DEM	B	NL	F	1	11/03/2020	history	11/05/2020	O	ABSENTEE ONESTOP	DEM
+BEAUFORT	WASH4	WASH4	Age 41 - 65	DEM	B	NL	M	1	11/03/2020	history	11/05/2020	O	ABSENTEE ONESTOP	DEM

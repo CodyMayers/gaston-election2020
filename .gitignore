@@ -1,0 +1,7 @@
+# gitignore
+ 
+*.pyc 
+__pycache__ 
+.vscode/ 
+gaston-election2020_venv/ 
+data/absentee_data/absentee_20201103.csv
