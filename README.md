@@ -13,3 +13,8 @@ Each subfolder contains:
 ## Source
 
 NC State Board of Elections [Downloads Page](https://er.ncsbe.gov/downloads.html?election_dt=11%2F03%2F2020&fbclid=IwAR1ToYJ6qYPkKOEvwjr2qodjJt5ySQaVdl37V3yHHTlIoul5yDG5576u7ys).
+
+## FAQ
+* Q: *Why is there no folder for the Precinct Election Results dataset?*
+
+    A: The dataset was found to be identical to the Election Night Media Results dataset.
